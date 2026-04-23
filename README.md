@@ -3,11 +3,11 @@
 
 ## 🧾 Información General
 
-- **Nombre completo:**  
-- **Edad:**  
-- **Grado / Sección:**  
-- **Especialidad:**  
-- **Institución:**  
+- **Nombre completo:**  Dennis Steven Ascencio Ramírez
+- **Edad:**  18
+- **Grado / Sección:**  2º
+- **Especialidad:**  Software
+- **Institución:**  Instituto Nacional de Santiago de Maria
 
 ---
 
